@@ -50,6 +50,10 @@
 
 **07:30 PM:** Dinner at Kohinoor Indian Restaurant (Tekapo).
 
+**09:30 PM:** Dark Sky Project Stargazing Experience.
+
+> 🌌 **Must Do:** Lake Tekapo is a UNESCO Dark Sky Reserve. Book the evening stargazing tour to see the Southern Cross, Milky Way, and planets through powerful telescopes. The guides are excellent and it's truly spectacular on a clear night.
+
 ---
 
 ### Day 3: Glacial Giants & Salmon
@@ -89,6 +93,10 @@
 **01:00 PM:** Picnic Lunch at White Horse Hill Campground.
 
 **03:00 PM:** Sir Edmund Hillary Alpine Centre (Museum/Movie) inside the Hermitage Hotel (Good if weather turns).
+
+**04:30 PM:** Helicopter Glacier Landing Experience (Pre-book from Mount Cook Village).
+
+> 🚁 **Highlight:** Book a scenic helicopter flight with snow landing on the Tasman Glacier. Most operators offer 25-45 minute flights departing from Mount Cook Airport. You'll land on pristine alpine snow with views of Aoraki/Mount Cook. This is weather-dependent, so having it here (rather than West Coast) gives you the best chance of clear skies.
 
 **06:00 PM:** Return to Twizel for rest.
 
@@ -132,7 +140,13 @@
 
 **01:30 PM:** Lunch at Fergburger (Veggie Bun) or Fergbaker (Pies/Pastries).
 
-**03:00 PM:** TSS Earnslaw Steamship Cruise. Relaxing lake cruise (90 mins).
+**03:00 PM:** Free time to explore Queenstown.
+
+> 🛍️ Options: Stroll the waterfront, browse the shops, or relax at the hotel after your early morning.
+
+**04:00 PM (Optional):** TSS Earnslaw Steamship Cruise.
+
+> ⛴️ **If you have energy:** The vintage 1912 steamship is a relaxing 90-minute cruise across Lake Wakatipu. However, after the Milford Sound cruise this morning, you may prefer to skip this and rest up.
 
 **07:00 PM:** Dinner at Bombay Palace Queenstown.
 
@@ -202,9 +216,7 @@
 
 **08:30 AM:** Lake Matheson Walk. Mirror reflections of Mt Cook. Pram friendly!
 
-**10:30 AM:** Fox Glacier South Side Walk. View the glacier terminal face from a distance.
-
-> 🚁 **PM Option:** If weather is clear, book a Helicopter Snow Landing here if you didn't do it at Mt Cook.
+**10:30 AM:** Fox Glacier Valley Walk. View the glacier terminal face from a distance.
 
 **Afternoon:** Relax. Easy afternoon.
 
