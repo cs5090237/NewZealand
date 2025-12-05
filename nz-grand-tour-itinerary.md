@@ -7,6 +7,23 @@
 
 ---
 
+## 👶 Quick Reference: Key Activities by Age
+
+| Activity | 11-Year-Old | 2-Year-Old | Indian Food Nearby? |
+|----------|-------------|------------|---------------------|
+| Milford Flight & Cruise | ✅ Loved it | ✅ (Need earmuffs) | ❌ (Pack Lunch) |
+| Luge (QT/Rotorua) | ✅ Solo Ride | ⚠️ (Only if >85cm) | ✅ (Queenstown/Rotorua) |
+| Shotover Jet | ✅ Loved it | ❌ (Too small) | ✅ (Queenstown) |
+| Hobbiton | ✅ Fun | ✅ (Free entry) | ❌ (Eat in Matamata) |
+| Glowworm Caves | ✅ Magical | ✅ (Keep quiet) | ❌ (Eat in Waitomo) |
+| Mt Cook Hike | ✅ Easy Walk | ❌ (Need Carrier) | ❌ (Pack Lunch) |
+| Heli Glacier Landing | ✅ Unforgettable | ✅ (Need earmuffs) | ❌ (Pack Lunch) |
+| Dark Sky Stargazing | ✅ Educational | ⚠️ (Late night) | ✅ (Tekapo) |
+| Te Puia Geysers | ✅ Impressive | ✅ (Pram friendly) | ✅ (Rotorua) |
+| Blue Pools Walk | ✅ Easy | ✅ (Carrier/pram) | ❌ (Pack snacks) |
+
+---
+
 ## 📍 PART 1: The Alpine Loop (Christchurch to Queenstown)
 
 ### Day 1: Arrival & The Garden City
@@ -44,9 +61,11 @@
 
 > 🧘 **Relax:** Hot pools facing the lake. There is a specific "Aqua Play" area for toddlers.
 
+**05:30 PM:** Motuariki View Point. Quick stop for panoramic views of Lake Tekapo and the surrounding alps.
+
 **06:00 PM:** Church of the Good Shepherd.
 
-> 📸 **Photo Op:** Golden hour photos.
+> 📸 **Photo Op:** Golden hour photos. The viewpoint and church are close by, perfect for catching the evening light.
 
 **07:30 PM:** Dinner at Kohinoor Indian Restaurant (Tekapo).
 
