@@ -24,6 +24,176 @@
 
 ---
 
+## 🚗 Road Trip Preparation: 7-Seater Kia Carnival
+
+### Vehicle & Driving
+
+| Item | Details |
+|------|---------|
+| **Car Seat** | Confirm 2yo car seat fitted at pickup (Christchurch & Auckland) |
+| **Fuel Type** | Check if petrol (91/95) or diesel — Kia Carnival is typically diesel |
+| **Rental Agreement** | Confirm unlimited km, insurance excess, roadside assistance number |
+| **Snow Chains** | Not needed in December (summer), but confirm with rental company |
+| **Spare Tyre & Jack** | Confirm present in vehicle at pickup |
+
+### Fuel Strategy
+
+| Tip | Details |
+|-----|---------|
+| **App: Gaspy** | Download for real-time fuel prices — crowdsourced, shows cheapest nearby stations |
+| **Fill Up Before** | West Coast (limited stations between Haast & Fox), Mount Cook, Arthur's Pass, Milford area |
+| **Fuel Brands** | BP, Z, Caltex, Mobil are main chains. Gull & Waitomo often cheaper (unmanned) |
+| **Cost Estimate** | ~NZ$2.20-2.80/L for petrol. Budget approx NZ$800-1000 total for the trip |
+| **Payment** | Self-service pumps accept credit cards. Some remote stations are unmanned (card only) |
+
+### Tolls
+
+| Info | Details |
+|------|---------|
+| **South Island** | ❌ No toll roads — you're free! |
+| **North Island** | 3 toll roads around Auckland/Tauranga (NZ$2-3 each) |
+| **Your Route** | You won't hit any tolls (Auckland → Rotorua → Waitomo → Hobbiton → Auckland avoids them) |
+| **If You Do** | Pay within 5 days at tollingonline.nzta.govt.nz or BP stations |
+
+### Essential Apps to Download
+
+| App | Purpose |
+|-----|---------|
+| **Gaspy** | Find cheapest fuel prices nearby |
+| **CamperMate** | Public toilets, dump stations, attractions, offline maps |
+| **MetService NZ** | Most accurate NZ weather forecasts & warnings |
+| **Google Maps** | Download offline maps for South Island & North Island routes |
+| **AllTrails** | Trail info, ratings, estimated times for hikes |
+| **Kia Rere** | Learn basic Māori words & pronunciation (by Air New Zealand) |
+
+### Medicine & First Aid Kit
+
+**For Adults:**
+| Item | Notes |
+|------|-------|
+| Paracetamol/Ibuprofen | Pain relief, fever |
+| Antihistamines | Allergies (non-drowsy for daytime) |
+| Loperamide (Imodium) | Diarrhoea — essential for travel |
+| Oral Rehydration Sachets | Dehydration from illness or heat |
+| Motion sickness tablets | For Milford flight, jet boat, winding roads |
+| Personal prescriptions | Bring in original containers with doctor's note |
+| Bandaids & antiseptic wipes | Minor cuts and scrapes |
+
+**For Kids (11yo & 2yo):**
+| Item | Notes |
+|------|-------|
+| Children's Panadol/Nurofen | Liquid form for 2yo, chewables for 11yo |
+| Children's antihistamine | Liquid Zyrtec/Clarityn |
+| Digital thermometer | Quick fever check |
+| Nasal saline spray | Dry airplane air, blocked noses |
+| Teething gel / Bonjela | For 2yo if needed |
+| Insect repellent (kid-safe) | Sandflies are vicious on West Coast! |
+| Electrolyte sachets (kids) | Pedialyte or similar |
+
+**Sun Protection (NZ UV is intense!):**
+| Item | Notes |
+|------|-------|
+| SPF 50+ sunscreen | Reapply every 2 hours — NZ sun burns fast |
+| Kids sunscreen | Mineral-based for sensitive skin |
+| Wide-brimmed hats | For everyone, especially 2yo |
+| Sunglasses (UV rated) | Adults and kids |
+| Lip balm with SPF | Often forgotten! |
+
+### Car Emergency Kit
+
+| Item | Why |
+|------|-----|
+| Phone car charger | Keep devices charged |
+| Power bank | Backup for remote areas with no signal |
+| Torch/flashlight | Breakdowns, late-night stops |
+| Warm blanket | NZ evenings can be cold even in summer |
+| Reusable water bottles | Fill at taps — NZ tap water is safe & delicious |
+| Non-perishable snacks | Muesli bars, nuts, crackers for remote stretches |
+| Paper towels / wet wipes | Spills, sticky hands (essential with 2yo!) |
+| Plastic bags | Rubbish, wet clothes, motion sickness |
+| Jumper cables | Most rentals have these, but confirm |
+| First aid kit | See above |
+| Printed emergency contacts | Rental company, insurance, 111 (NZ emergency) |
+
+### Toddler Road Trip Essentials
+
+| Item | Notes |
+|------|-------|
+| Car seat toys | Attach to seat to avoid constant dropping |
+| Tablet + headphones | Loaded with shows/games for long drives |
+| Snack container | Easy-access, non-messy snacks |
+| Sippy cup / water bottle | Spill-proof essential |
+| Change of clothes (in car) | Accidents, spills, weather changes |
+| Travel potty | Optional but helpful for remote stops |
+| Favourite comfort item | Stuffed toy, blanket for naps |
+| Stroller | Lightweight, foldable for walks |
+| Baby carrier | Essential for Hooker Valley, Blue Pools |
+| Portable high chair | Clip-on style for restaurants |
+
+### Packing for NZ Summer (Dec)
+
+| Category | Items |
+|----------|-------|
+| **Layers** | T-shirts + light fleece/jacket (weather changes fast) |
+| **Rain gear** | Packable rain jackets for everyone (West Coast = wet!) |
+| **Footwear** | Comfortable walking shoes + sandals |
+| **Swimwear** | Hot pools, beaches, hotel pools |
+| **Warm layer** | Hoodie/sweater for evenings & stargazing |
+| **Sleepwear** | NZ accommodation can be cool at night |
+
+### Documents & Admin
+
+| Item | Notes |
+|------|-------|
+| Passports | Valid for 6+ months |
+| Visa / NZeTA | Confirm NZeTA approved before travel |
+| Travel insurance docs | Print or save offline |
+| Booking confirmations | Hotels, flights, activities — save offline |
+| Driver's licence | International Driving Permit if needed |
+| Credit cards | Visa/Mastercard widely accepted; inform bank of travel |
+| Emergency cash | NZ$200-300 for small purchases, markets |
+| Vaccination records | If required |
+
+### Connectivity
+
+| Item | Notes |
+|------|-------|
+| NZ SIM card | Buy at airport or use international roaming |
+| Offline maps | Download before leaving cities — rural coverage patchy |
+| Power adapter | NZ uses Type I plug (same as Australia) |
+| Multi-USB charger | For charging multiple devices overnight |
+
+### Key NZ Emergency Numbers
+
+| Service | Number |
+|---------|--------|
+| **Emergency (Police/Fire/Ambulance)** | 111 |
+| **Healthline (medical advice)** | 0800 611 116 |
+| **Roadside Assistance** | Check rental agreement |
+| **Poison Centre** | 0800 764 766 |
+
+### Food & Snacks Strategy
+
+| Situation | Strategy |
+|-----------|----------|
+| **Remote areas** (Mt Cook, Haast, West Coast) | Pack sandwiches, snacks, fruit from last town |
+| **Christmas Day** | Almost everything closed — pre-arrange dinner or stock up on 24th |
+| **Long drives** | Keep cooler bag with drinks, fruit, sandwiches |
+| **Supermarkets** | Countdown, New World, Pak'nSave in main towns |
+| **Indian groceries** | Available in Christchurch, Queenstown, Auckland |
+
+### Pro Tips
+
+1. **Fill up fuel** whenever you're below half tank in remote areas
+2. **Start early** for popular spots (Blue Pools, Lake Matheson) to beat crowds
+3. **Check road conditions** on NZTA Journey Planner before alpine routes
+4. **Book activities** in advance for Dec/Jan (peak season)
+5. **Allow extra time** — NZ roads are scenic but winding
+6. **Sandflies** — They're brutal on West Coast. Use repellent, especially near water
+7. **4 seasons in 1 day** — Always carry layers and rain jacket
+
+---
+
 ## 📍 PART 1: The Alpine Loop (Christchurch to Queenstown)
 
 ### Day 1: Arrival & The Garden City
@@ -353,3 +523,236 @@
 📅 Mon 29 Dec
 
 Drive to AKL Airport. Drop car. Fly home with "mindblowing" memories! ✈️🇳🇿
+
+---
+
+## 🚗 Road Trip Essentials: 7-Seater Kia Carnival Checklist
+
+Your 17-day journey covers approximately **2,500+ km** across both islands. Here's everything you need to prepare.
+
+---
+
+### ⛽ Fuel & Vehicle
+
+| Item | Details |
+|------|---------|
+| **Fuel Type** | 91 Unleaded (Regular) – confirm with rental company |
+| **Fuel Cost** | ~NZ$2.50/litre (Dec 2024 avg). Budget **NZ$600-800** total |
+| **Fuel App** | Download **Gaspy** app to find cheapest nearby stations |
+| **Remote Areas** | Fill up at Queenstown/Cromwell before Haast Pass; Greymouth before Arthur's Pass; Twizel before Mount Cook |
+| **Tank Range** | Kia Carnival ~600-700km per tank – never let it drop below 1/4 in remote areas |
+
+**Critical fuel stops to remember:**
+- Fill up in **Queenstown** before Haast Pass drive (limited stations on West Coast)
+- Fill up in **Hokitika/Greymouth** before Arthur's Pass crossing
+- Fill up in **Cromwell** (cheaper than Wanaka by ~10c/litre)
+- West Coast fuel is more expensive – top up in major towns
+
+---
+
+### 🛣️ Tolls
+
+| Item | Details |
+|------|---------|
+| **South Island** | ✅ **No toll roads** – you're toll-free for Part 1-3! |
+| **North Island** | 3 toll roads exist (Auckland & Tauranga area) – you won't use any on your itinerary |
+| **Payment** | If you accidentally use one: pay within 5 days at [tollroad.govt.nz](https://tollroad.govt.nz) or incur NZ$4.90 admin fee |
+
+---
+
+### 🚙 Driving Essentials
+
+| Item | Why You Need It |
+|------|-----------------|
+| **Phone Mount** | Illegal to hold phone while driving – NZ$150 fine |
+| **Offline Maps** | Download Google Maps offline for South Island & North Island – signal is patchy in remote areas |
+| **Dash Charger** | Keep devices charged; bring multi-port USB charger |
+| **Sunglasses** | NZ sun is intense + lots of driving towards sun at golden hour |
+| **Power Adapter** | NZ uses Type I plug (same as Australia) – bring adapter from India |
+
+**Driving tips:**
+- Drive on the **LEFT** side – take it slow the first day
+- Speed limit: **100 km/h** on highways, **50 km/h** in towns
+- Speed cameras are hidden (often in unmarked cars) – stick to limits
+- One-lane bridges are common – yield sign indicates who has right of way
+- Google Maps times are optimistic – add 20-30% buffer for winding roads
+- Use **slow vehicle bays** to let faster traffic pass
+
+---
+
+### 💊 Medical & First Aid
+
+| Category | Items |
+|----------|-------|
+| **Prescription Meds** | Bring enough for entire trip + copies of prescriptions (NZ is strict on medications) |
+| **Pain Relief** | Paracetamol (Calpol/Crocin for kids), Ibuprofen, Disprin |
+| **Stomach** | ORS sachets, Imodium, antacids, Pudin Hara |
+| **Allergies** | Antihistamines (Cetirizine/Allegra), any EpiPens if needed |
+| **Cold/Flu** | Vicks, cough syrup, nasal spray, throat lozenges |
+| **Topical** | Antiseptic cream (Dettol/Savlon), Band-Aids, gauze, medical tape |
+| **Motion Sickness** | Avomine/Dramamine – essential for winding roads (Crown Range, Haast Pass) |
+| **Insect Bites** | Sandflies are brutal on West Coast – bring antihistamine cream + repellent |
+| **Sunburn** | Aloe vera gel, SPF 50+ sunscreen (NZ sun is harsh due to thin ozone) |
+| **Eye Care** | Eye drops, contact lens solution |
+| **Thermometer** | Digital thermometer for kids |
+
+> ⚠️ **Note:** Pharmacies exist in most towns but OTC meds are expensive in NZ. Neosporin isn't available – bring your own antiseptic cream.
+
+---
+
+### 👶 Toddler (2yo) Essentials
+
+| Category | Items |
+|----------|-------|
+| **Car Seat** | Confirm rear-facing seat is fitted at rental pickup |
+| **Carrier** | Baby carrier/hiking backpack for trails (Hooker Valley, Blue Pools) |
+| **Stroller** | Lightweight umbrella stroller for towns & pram-friendly walks |
+| **Diapers** | Bring enough for first few days; available at Countdown/New World supermarkets |
+| **Wipes** | Baby wipes + hand sanitizer |
+| **Changing Pad** | Portable changing mat |
+| **Snacks** | Biscuits, fruit pouches, crackers – pack from home or buy at supermarkets |
+| **Sippy Cups** | Spill-proof bottles |
+| **Entertainment** | iPad loaded with offline shows (Ms Rachel, Bluey), coloring books, small toys |
+| **Sleep** | Comfort blanket, favourite soft toy, white noise app |
+| **Earmuffs** | Noise-cancelling for helicopter & flights |
+| **Portable High Chair** | Some restaurants may not have them |
+
+> 📝 **NZ Customs:** Declare all baby food. Sealed, commercially packaged food is fine. No homemade or fresh food allowed.
+
+---
+
+### 🧒 11-Year-Old Essentials
+
+| Category | Items |
+|----------|-------|
+| **Entertainment** | iPad/tablet with offline games & movies, headphones, books |
+| **Snacks** | Trail mix, muesli bars, chips |
+| **Camera** | Kid-friendly camera or old phone for photos |
+| **Journal** | Travel journal to document the trip |
+| **Layers** | Kids lose/forget jackets – bring extras |
+
+---
+
+### 👕 Clothing (Everyone)
+
+**NZ weather is unpredictable – "4 seasons in one day" is real!**
+
+| Layer | Items |
+|-------|-------|
+| **Base** | Merino wool thermals (NZ is famous for Icebreaker brand) |
+| **Mid** | Fleece jackets, hoodies, warm sweaters |
+| **Outer** | Waterproof rain jacket with hood (not poncho) – essential! |
+| **Bottoms** | Mix of shorts & long pants; quick-dry hiking pants |
+| **Footwear** | Sturdy walking shoes/hiking boots (broken in!), sandals, water shoes |
+| **Accessories** | Beanie, sun hat, sunglasses, gloves (for glacier/stargazing) |
+| **Swimwear** | For hot pools (Tekapo Springs, Polynesian Spa) |
+
+> 👟 **Important:** Clean and dry all footwear before entering NZ – customs inspects hiking boots for biosecurity.
+
+---
+
+### 🎒 In-Car Essentials Kit
+
+Keep this bag accessible in the car at all times:
+
+| Item | Purpose |
+|------|---------|
+| **Cooler Bag** | Keep snacks, drinks, and lunch cool |
+| **Reusable Water Bottles** | NZ tap water is safe – refill everywhere |
+| **Snack Box** | Pre-packed snacks for long drives |
+| **Wet Wipes** | Cleanup for kids and picnics |
+| **Garbage Bags** | Keep car clean |
+| **Paper Towels/Tissues** | Spills happen |
+| **Hand Sanitizer** | For stops without facilities |
+| **Blankets** | For naps in car, picnics, cold evenings |
+| **Pillows** | Neck pillows for long drives |
+| **Umbrella** | Compact travel umbrella |
+| **Torch/Headlamp** | For glowworm walks, stargazing, emergencies |
+| **Binoculars** | Wildlife spotting (seals, dolphins, birds) |
+| **Plastic Bags** | Wet clothes, dirty shoes, rubbish |
+
+---
+
+### 📱 Apps to Download
+
+| App | Purpose |
+|-----|---------|
+| **Google Maps** | Download offline maps for both islands |
+| **Gaspy** | Find cheapest fuel prices nearby |
+| **MetService NZ** | Accurate NZ weather forecasts |
+| **CamperMate** | Find toilets, dump stations, free WiFi, campsites |
+| **Rankers** | Reviews of camping spots & facilities |
+| **Air NZ / Jetstar** | Flight updates |
+| **WhatsApp** | Stays connected; most NZ businesses use it |
+
+---
+
+### 💰 Money & Payments
+
+| Item | Details |
+|------|---------|
+| **Currency** | New Zealand Dollar (NZD) |
+| **Cards** | Visa/Mastercard widely accepted; keep 2 cards as backup |
+| **Cash** | Carry NZ$200-300 for small towns, markets, tips |
+| **ATMs** | Available in all major towns |
+| **Contactless** | Apple Pay/Google Pay works almost everywhere |
+
+---
+
+### 📋 Documents Checklist
+
+| Document | Notes |
+|----------|-------|
+| **Passports** | Valid for 6+ months beyond travel dates |
+| **NZeTA** | New Zealand Electronic Travel Authority – apply before travel |
+| **IDP** | International Driving Permit (recommended alongside Indian license) |
+| **Rental Confirmation** | Both South & North Island bookings |
+| **Hotel Bookings** | Printed or saved offline |
+| **Activity Vouchers** | Milford Sound, Hobbiton, Waitomo, Helicopter, Stargazing |
+| **Travel Insurance** | Print policy number & emergency contact |
+| **Flight Tickets** | All legs including CHC → AKL |
+| **Emergency Contacts** | NZ emergency: **111** |
+
+---
+
+### 🛡️ Safety & Emergency
+
+| Item | Details |
+|------|---------|
+| **Emergency Number** | **111** (Police, Fire, Ambulance) |
+| **Roadside Assistance** | Check if included with rental; AA NZ: 0800 500 222 |
+| **Travel Insurance** | Ensure it covers: medical, adventure activities (jet boat, heli), rental car excess |
+| **Nearest Hospitals** | Christchurch, Queenstown, Hokitika, Rotorua, Auckland all have hospitals |
+| **Sandflies** | West Coast is notorious – cover up at dusk, use repellent |
+| **Sun Safety** | NZ has thin ozone – UV is extreme even on cloudy days. Reapply SPF 50+ every 2 hours |
+| **Water Safety** | Don't drink stream water (giardia risk). Tap water is safe everywhere |
+
+---
+
+### 🧳 Pre-Departure Checklist
+
+**1 Week Before:**
+- [ ] Download all offline maps
+- [ ] Download shows/movies to tablets
+- [ ] Confirm all bookings (hotels, activities, rental cars)
+- [ ] Check NZ weather forecast
+- [ ] Get travel insurance documents
+- [ ] Photocopy all important documents
+- [ ] Inform bank of international travel
+
+**Day Before:**
+- [ ] Charge all devices
+- [ ] Pack medications in carry-on
+- [ ] Pack snacks for flight
+- [ ] Clean hiking boots (NZ customs!)
+- [ ] Set out-of-office on email
+- [ ] Check flight status
+
+**At Rental Pickup:**
+- [ ] Confirm car seat is properly fitted
+- [ ] Check spare tire & jack
+- [ ] Note existing scratches/damage
+- [ ] Get emergency contact number
+- [ ] Ask about fuel type (91 Unleaded)
+- [ ] Test all features (GPS, USB ports, AC)
+- [ ] Take photos of car condition
