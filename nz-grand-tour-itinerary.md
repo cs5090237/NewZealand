@@ -27,7 +27,7 @@
 ## 📍 PART 1: The Alpine Loop (Christchurch to Queenstown)
 
 ### Day 1: Arrival & The Garden City
-📅 Sat 13 Dec | 🛌 Stay: [Home in Christchurch](https://example.com/placeholder-link)
+📅 Sat 13 Dec | 🛌 Stay: [Home in Christchurch](https://www.airbnb.co.in/rooms/1502555039212766605?check_in=2026-01-26&check_out=2026-01-31&guests=1&adults=1&s=67&unique_share_id=a040a7d3-91e6-4106-8da6-6690eda23c4b) | 📍 Location: [Google Maps(https://www.google.com/maps/search/?api=1&query=-43.533025611491965%2C172.64731641858816)]
 
 **10:00 AM:** Arrive Christchurch Airport (CHC). Pick up rental van (Ensure car seat for 2yo is fitted).
 
