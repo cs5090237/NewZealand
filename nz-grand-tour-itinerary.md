@@ -1,7 +1,7 @@
 # 🇳🇿 The "Mindblowing" Family NZ Grand Tour
 
 **Dates:** 13 Dec – 29 Dec 2025  
-**Group:** 6 Pax (4 Adults, 2 Kids [11y + 2y])  
+**Group:** 6 Pax (3 Adults, 3 Kids [32y + 11y + 2y])  
 **Pace:** Active but toddler-friendly  
 **Food:** Veg/Indian focussed where possible
 
