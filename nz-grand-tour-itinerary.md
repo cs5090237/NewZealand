@@ -1,7 +1,7 @@
 # 🇳🇿 The "Mindblowing" Family NZ Grand Tour
 
 **Dates:** 13 Dec – 29 Dec 2025  
-**Group:** 6 Pax (3 Adults, 3 Kids [32y + 11y + 2y])  
+**Group:** 6 Pax (4 Adults, 2 Kids [11y + 2y])  
 **Pace:** Active but toddler-friendly  
 **Food:** Veg/Indian focussed where possible
 
@@ -27,13 +27,13 @@
 ## 📍 PART 1: The Alpine Loop (Christchurch to Queenstown)
 
 ### Day 1: Arrival & The Garden City
-📅 Sat 13 Dec | 🛌 Stay: Golden Hotel, Riccarton
+📅 Sat 13 Dec | 🛌 Stay: [Home in Christchurch](https://example.com/placeholder-link)
 
 **10:00 AM:** Arrive Christchurch Airport (CHC). Pick up rental van (Ensure car seat for 2yo is fitted).
 
-**12:00 PM:** Check-in / Bag Drop at Golden Hotel.
+**12:00 PM:** Check-in / Bag Drop at AirBnb.
 
-**01:00 PM:** Lunch at Dosa Kitchen (Riccarton Road) – South Indian Dosa/Thali (Pure Veg options).
+**01:00 PM:** Lunch
 
 **03:00 PM:** Christchurch Antarctic Centre OR Botanic Gardens.
 
@@ -46,7 +46,7 @@
 ---
 
 ### Day 2: Turquoise Waters
-📅 Sun 14 Dec | 🛌 Stay: Hunter 3 Bedroom, Lake Tekapo  
+📅 Sun 14 Dec | 🛌 Stay: [Hunter 3 Bedroom, Lake Tekapo](https://www.booking.com/Share-LCeH1w3)  
 🚗 Drive: 3 hrs (Scenic)
 
 **09:00 AM:** Depart Christchurch.
@@ -76,7 +76,7 @@
 ---
 
 ### Day 3: Glacial Giants & Salmon
-📅 Mon 15 Dec | 🛌 Stay: Luxurious Twizel Escape  
+📅 Mon 15 Dec | 🛌 Stay: [Luxurious Twizel Escape](https://www.booking.com/Share-BC2Y1g)  
 🚗 Drive: 45 mins
 
 **09:30 AM:** Mt John Observatory Summit. Drive up ($8 fee) for the famous "Astro Café" view. Hot chocolate for kids.
@@ -98,7 +98,7 @@
 ---
 
 ### Day 4: Mount Cook Adventure
-📅 Tue 16 Dec | 🛌 Stay: Luxurious Twizel Escape  
+📅 Tue 16 Dec | 🛌 Stay: [Luxurious Twizel Escape](https://www.booking.com/Share-BC2Y1g)  
 🚗 Drive: 45 mins each way
 
 **09:00 AM:** Drive to Aoraki/Mount Cook National Park.
@@ -124,7 +124,7 @@
 ## 📍 PART 2: The Adrenaline Capital (Queenstown)
 
 ### Day 5: Canyons & Fruit
-📅 Wed 17 Dec | 🛌 Stay: Remarkable Views, Queenstown  
+📅 Wed 17 Dec | 🛌 Stay: [Remarkable Views, Queenstown](https://www.booking.com/Share-TmlaQE)  
 🚗 Drive: 2.5 hrs
 
 **09:00 AM:** Depart Twizel.
@@ -148,7 +148,7 @@
 ---
 
 ### Day 6: The 8th Wonder (Milford Sound)
-📅 Thu 18 Dec | 🛌 Stay: Remarkable Views, Queenstown  
+📅 Thu 18 Dec | 🛌 Stay: [Remarkable Views, Queenstown](https://www.booking.com/Share-TmlaQE)  
 🚁 Pre-Booked: Milford Sound Flight & Cruise (Morning)
 
 **Morning:** Fly-Cruise-Fly.
@@ -172,7 +172,7 @@
 ---
 
 ### Day 7: Wanaka & The Tree
-📅 Fri 19 Dec | 🛌 Stay: Remarkable Views, Queenstown  
+📅 Fri 19 Dec | 🛌 Stay: [Remarkable Views, Queenstown](https://www.booking.com/Share-TmlaQE)  
 🚗 Drive: 1 hr each way via Crown Range
 
 **09:30 AM:** Drive the steep Crown Range Road. Stop at the Cardrona Bra Fence (Quirky photo op).
@@ -192,7 +192,7 @@
 ---
 
 ### Day 8: Adrenaline & Heights
-📅 Sat 20 Dec | 🛌 Stay: Remarkable Views, Queenstown
+📅 Sat 20 Dec | 🛌 Stay: [Remarkable Views, Queenstown](https://www.booking.com/Share-TmlaQE)
 
 **09:00 AM:** Drive to Glenorchy (45 mins).
 
@@ -213,7 +213,7 @@
 ## 📍 PART 3: The Wild West Coast
 
 ### Day 9: Waterfalls & The Pass
-📅 Sun 21 Dec | 🛌 Stay: Bella Vista Motel, Fox Glacier  
+📅 Sun 21 Dec | 🛌 Stay: [Bella Vista Motel, Fox Glacier](https://www.booking.com/Share-XHaHp7a)  
 🚗 Drive: 4.5 hrs (Lots of stops)
 
 **09:00 AM:** Depart Queenstown via Haast Pass.
@@ -231,7 +231,7 @@
 ---
 
 ### Day 10: Mirrors & Ice
-📅 Mon 22 Dec | 🛌 Stay: Bella Vista Motel, Fox Glacier
+📅 Mon 22 Dec | 🛌 Stay: [Bella Vista Motel, Fox Glacier](https://www.booking.com/Share-XHaHp7a)
 
 **08:30 AM:** Lake Matheson Walk. Mirror reflections of Mt Cook. Pram friendly!
 
@@ -242,7 +242,7 @@
 ---
 
 ### Day 11: Turquoise Gorges
-📅 Tue 23 Dec | 🛌 Stay: Shining Star Beachfront, Hokitika  
+📅 Tue 23 Dec | 🛌 Stay: [Shining Star Beachfront, Hokitika](https://www.booking.com/Share-3VcmBr)  
 🚗 Drive: 2 hrs
 
 **10:00 AM:** Drive North.
@@ -258,7 +258,7 @@
 ---
 
 ### Day 12: The Great Crossing
-📅 Wed 24 Dec | 🛌 Stay: Golden Hotel, Christchurch  
+📅 Wed 24 Dec | 🛌 Stay: [Golden Hotel, Christchurch](https://www.booking.com/Share-hSmxI1)  
 🚗 Drive: 3.5 hrs
 
 **09:00 AM:** Depart via Arthur's Pass.
@@ -280,7 +280,7 @@
 ## 📍 PART 4: North Island Geothermal & Hobbits
 
 ### Day 13: Northward Bound
-📅 Thu 25 Dec (Xmas) | 🛌 Stay: Alpine Motel, Rotorua  
+📅 Thu 25 Dec (Xmas) | 🛌 Stay: [Alpine Motel, Rotorua](https://www.booking.com/Share-AcvOVJj)  
 ✈️ Flight: CHC → AKL (2:00 PM - 3:30 PM)
 
 **Morning:** Leisurely breakfast. Drop rental car.
@@ -298,7 +298,7 @@
 ---
 
 ### Day 14: Mud & Redwoods
-📅 Fri 26 Dec (Boxing Day) | 🛌 Stay: Alpine Motel, Rotorua
+📅 Fri 26 Dec (Boxing Day) | 🛌 Stay: [Alpine Motel, Rotorua](https://www.booking.com/Share-AcvOVJj)
 
 **09:30 AM:** Te Puia. See the Pōhutu Geyser and Kiwi birds.
 
@@ -311,7 +311,7 @@
 ---
 
 ### Day 15: The Ultimate Combo (Glowworms & Hobbits)
-📅 Sat 27 Dec | 🛌 Stay: Auckland Accom  
+📅 Sat 27 Dec | 🛌 Stay: [Cordis Auckland](https://www.booking.com/Share-ylcGqyN)  
 🎟️ Pre-Booked: Waitomo (12 PM) | Hobbiton (5:30 PM)
 
 **08:00 AM:** Depart Rotorua early.
@@ -335,7 +335,7 @@
 ---
 
 ### Day 16: City of Sails
-📅 Sun 28 Dec | 🛌 Stay: Auckland Accom
+📅 Sun 28 Dec | 🛌 Stay: [Cordis Auckland](https://www.booking.com/Share-ylcGqyN)
 
 **10:00 AM:** Kelly Tarlton's Sea Life Aquarium. Penguins and Shark Tunnels. Great for the 2yo.
 
